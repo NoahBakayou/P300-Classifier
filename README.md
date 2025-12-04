@@ -20,7 +20,7 @@ Key variables:
 - `TargetChar` — correct character label (train only)
 
 ## Methods Completed  
-- Loaded and validated all `.mat` files using `scipy.io.loadmat` :contentReference[oaicite:1]{index=1}  
+- Loaded and validated all `.mat` files using `scipy.io.loadmat` 
 - Extracted flash-aligned EEG windows (0–700 ms)  
 - Built target vs. non-target datasets:  
   - ~2,537 target segments  

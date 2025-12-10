@@ -36,7 +36,6 @@ We use **BCI Competition III – Dataset II Subject_A_Train.mat**. The subject d
   - Power Point Presentation
   - Final Report
 - **`requirements.txt`** — Lists all Python dependencies needed to run the notebooks.
--
 
 ## Setup & Usage
 

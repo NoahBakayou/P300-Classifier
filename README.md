@@ -30,6 +30,8 @@ We use **BCI Competition III – Dataset II Subject_A_Train.mat**. The subject d
 - **`src`** folder contains
   - **`P300.ipynb`**:Main notebook for flash-level and code-level feature extraction, exploratory data analysis, and initial logistic regression modeling.
   - **`HW5_SQL_and_Classification.ipynb`**: HW5 notebook using DuckDB SQL for data management and implementing Random Forest classification on code-averaged features for direct comparison with logistic regression.
+- **`data`**: Main folder where our dataset is
+- **`Reports`**: Main folder for Progress Report and Final Report
 - **`requirements.txt`** — Lists all Python dependencies needed to run the notebooks.
 -
 
